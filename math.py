@@ -3,4 +3,4 @@ b = 7
 print("sum:", a + b)
 print("difference:", a - b)
 print("product:", a * b)
-print("quotient:", a / b)
+print("quotientking:", a / b)
